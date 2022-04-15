@@ -20,15 +20,15 @@ Listed below are the mandated requirements under CMMCv2 level 1 along with brief
 - Escort visitors and monitor visitor activity; maintain audit logs of physical access; and control and manage physical access devices.
 	- Make sure that when people are allowed physically close to your FCI, that you are keeping record of it- this could be as simple as a sign-in log on a clipboard by the door.
 - Monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems.
-	- pass
+	- Monitor and regulate network traffic at the gateway and switches within the network.
 - Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
-	- pass
+	- Create two networks, one for visitors, one for employees and FCI.
 - Identify, report, and correct information and information system flaws in a timely manner.
 	- Patch systems regularly, if you have an internal IT department or division then using a ticketing system will satisfy most of this requirement.
 - Provide protection from malicious code at appropriate locations within organizational information systems.
-	- pass
+	- Prevent uncontrolled code from executing- antivirus will work.
 - Update malicious code protection mechanisms when new releases are available.
-	- pass
+	- Update AV regularly, preferably daily.
 - Perform periodic scans of the information system and real-time scans of files from external sources as files are downloaded, opened, or executed.
 	- Know what information is entering your system, 
 - Other requirements. This clause does not relieve the Contractor of any other specific safeguarding requirements specified by Federal agencies and departments relating to covered contractor information systems generally or other Federal safeguarding requirements for controlled unclassified information (CUI) as established by Executive Order 13556.
@@ -36,4 +36,4 @@ Listed below are the mandated requirements under CMMCv2 level 1 along with brief
 - Subcontracts. The Contractor shall include the substance of this clause, including this paragraph (c), in subcontracts under this contract (including subcontracts for the acquisition of commercial products or commercial services, other than commercially available off-the-shelf items), in which the subcontractor may have Federal contract information residing in or transiting through its information system.
 	- Subcontractors who handle FCI have to follow the same rules as primes.
 ## List of Implementations
-
+1. 
